@@ -1,0 +1,51 @@
+h1 {
+    padding: 2rem;
+    background-color: thistle;
+    text-align: center;
+    justify-content: center;
+    display: block;
+
+}
+.heading{
+    font-size: bold;
+    font-size: larger;
+
+}
+#btn-translate {
+    text-decoration: solid;
+    font-size: larger;
+    background-color:lightblue;
+    border: 1px solid black;
+        border: none;
+        margin: 0.5rem 0rem;
+        padding: 1rem 1rem;
+        font-family: 'Kalam', cursive;
+        
+    }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 2rem;
+    background-color: thistle;
+    text-align: center;
+}
+
+footer p {
+    max-width: var(--width-break);
+    margin: auto;
+}
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-img {
+    display: block;
+  float: right;
+    margin: auto;
+    padding: 1rem;
+    size: 1CM;
+}
